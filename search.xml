@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/10/30/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>工伤认定申请流程</title>
+    <url>/2023/11/01/%E5%B7%A5%E4%BC%A4%E8%AE%A4%E5%AE%9A%E7%94%B3%E8%AF%B7%E6%B5%81%E7%A8%8B/</url>
+    <content><![CDATA[<h1 id="工伤认定申请流程"><a href="#工伤认定申请流程" class="headerlink" title="工伤认定申请流程"></a>工伤认定申请流程</h1><h2 id="一、-工伤认定申请的提出"><a href="#一、-工伤认定申请的提出" class="headerlink" title="一、 工伤认定申请的提出"></a>一、 工伤认定申请的提出</h2><ul>
+<li>发生工伤后一个月内用人单位进行工伤认定申请。</li>
+<li>如果单位没有在一个月内申请，则职工本人或者近亲属可以在一年内向工伤认定部门提出申请。</li>
+</ul>
+<h2 id="二、-工伤认定申请的材料要求"><a href="#二、-工伤认定申请的材料要求" class="headerlink" title="二、 工伤认定申请的材料要求"></a>二、 工伤认定申请的材料要求</h2><ol>
+<li>工伤认定申请表</li>
+<li>劳动合同（没有劳动合同要首先劳动仲裁确认劳动关系）</li>
+<li>医院诊断证明</li>
+<li>如果是第三方事故伤害则需要相关责任部门开具相关证明材料(本案不涉及)</li>
+</ol>
+<h2 id="三、-工伤认定结论"><a href="#三、-工伤认定结论" class="headerlink" title="三、 工伤认定结论"></a>三、 工伤认定结论</h2><ul>
+<li>认定为工伤则根据诊断证明、工伤职工停工留薪期管理办法以及分类目录确定停工留薪期</li>
+<li>停工留薪期满后可以继续工作，则进行劳动能力鉴定，停工留薪期结束后60日内单位或者职工本人进行申请</li>
+<li>停工留薪期满后不能继续工作则在停工留薪期结束之前的10个工作日内，向用人单位提出延长停工留薪期的申请，并且提交诊断报告和假条<ul>
+<li>如果单位不认可，可以把信息提交劳动能力鉴定委员会做出是否延长停工留薪期的决定</li>
+</ul>
+</li>
+</ul>
+<h2 id="四、-认定时间"><a href="#四、-认定时间" class="headerlink" title="四、 认定时间"></a>四、 认定时间</h2><ul>
+<li>一般情况下，申请后15日内出认定结果</li>
+</ul>
+<h2 id="五、-是否需要本人去现场"><a href="#五、-是否需要本人去现场" class="headerlink" title="五、 是否需要本人去现场"></a>五、 是否需要本人去现场</h2><ul>
+<li>律师出具律师事务所函、委托书、律师证</li>
+</ul>
+<h2 id="六、-工伤申请地点"><a href="#六、-工伤申请地点" class="headerlink" title="六、 工伤申请地点"></a>六、 工伤申请地点</h2><ul>
+<li>北辰区工伤认定部门：北辰大厦A座二楼</li>
+</ul>
+]]></content>
+  </entry>
+</search>
